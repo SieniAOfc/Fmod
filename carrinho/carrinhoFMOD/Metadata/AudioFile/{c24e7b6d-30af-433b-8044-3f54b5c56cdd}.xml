@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c24e7b6d-30af-433b-8044-3f54b5c56cdd}">
+		<property name="assetPath">
+			<value>kamranbashirb-car-door-shut-297266.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47020408163265304</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{445ce925-d3f3-454a-a698-ceb7fc4a6cc4}</destination>
+		</relationship>
+	</object>
+</objects>

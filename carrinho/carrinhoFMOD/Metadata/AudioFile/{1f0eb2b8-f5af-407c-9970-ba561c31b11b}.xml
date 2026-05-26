@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1f0eb2b8-f5af-407c-9970-ba561c31b11b}">
+		<property name="assetPath">
+			<value>dragon-studio-car-crash-sound-effect-376874.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1159183673469388</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{445ce925-d3f3-454a-a698-ceb7fc4a6cc4}</destination>
+		</relationship>
+	</object>
+</objects>
